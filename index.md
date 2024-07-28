@@ -1,8 +1,10 @@
 ---
-title: Welcome to my blog
+title: "This is my first blog"
+date: 2024-07-28
 ---
-### 1. 尝试中文
-窗前明月光，
-疑是地上霜。
-举头望明月，
-低头思故乡。
+
+### 另一首诗
+白日依山尽，<br />
+黄河入海流。<br />
+欲穷千里目，<br />
+更上一层楼。<br />
